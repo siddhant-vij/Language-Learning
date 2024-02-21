@@ -3,4 +3,8 @@ go 1.22.0
 use (
 	./01_hello_quote
 	./02_data_type_sizes
+	./03_input_output
+	./04_calculator
+	./05_random_dice
+	./06_time
 )
