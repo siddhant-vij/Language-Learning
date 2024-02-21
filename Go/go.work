@@ -1,0 +1,6 @@
+go 1.22.0
+
+use (
+	./01_hello_quote
+	./02_data_type_sizes
+)
