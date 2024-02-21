@@ -7,4 +7,11 @@ use (
 	./04_calculator
 	./05_random_dice
 	./06_time
+	./07_pointers_references
+	./08_arrays
+	./09_slices
+	./10_maps
+	./11_structs
+	./12_loops_conditionals
+	./13_file_handling
 )
