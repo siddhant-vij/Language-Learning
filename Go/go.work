@@ -15,4 +15,9 @@ use (
 	./12_loops_conditionals
 	./13_file_handling
 	./14_contact_manager
+	./15_web_requests
+	./16_url_handling
+	./17_http_server
+	./18_http_client
+	./19_json_handling
 )
