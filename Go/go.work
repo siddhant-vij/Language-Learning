@@ -22,4 +22,7 @@ use (
 	./19_json_handling
 	./20_build_api
 	./21_mongo_api
+	./22_goroutines
+	./23_mutex_race
+	./24_channels
 )
